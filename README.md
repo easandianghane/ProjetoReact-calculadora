@@ -1,3 +1,10 @@
-# Getting Started with Create React App
+# Overview
+Projeto Criado por Edson Augusto Sandianghane como um projeto de aprendizagem no curso de JavaScript e ReactJs
 
-Projeto Criado por Edson Augusto Sandianghane como um projeto de aprendizagem no curso de Js e React;
+Built With
+- JavaScript;
+- ReactJs;
+- 
+# Contributors
+@easandiangahne
+
