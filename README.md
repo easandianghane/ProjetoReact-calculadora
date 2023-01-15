@@ -4,7 +4,8 @@ Projeto Criado por Edson Augusto Sandianghane como um projeto de aprendizagem no
 Built With
 - JavaScript;
 - ReactJs;
-- 
+- HTML5
+- CSS
 # Contributors
 @easandiangahne
 
